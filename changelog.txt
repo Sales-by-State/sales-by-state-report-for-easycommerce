@@ -1,0 +1,4 @@
+*** Sales by State Report for EasyCommerce Changelog ***
+
+2026-09-02 - version 1.0.0
+* Initial release.
