@@ -5,13 +5,12 @@
  * Description:          See a yearly breakdown of EasyCommerce sales by state / county / province for a given country, filterable by order status.
  * Version:              1.0.0
  * Author:               Rodolfo Melogli
- * Author URI:           https://salesbystate.com/
+ * Author URI:           https://www.businessbloomer.com/
  * Developer:            Rodolfo Melogli
- * Developer URI:        https://salesbystate.com/
+ * Developer URI:        https://www.businessbloomer.com/
  * Text Domain:          sales-by-state-report-for-easycommerce
  * Domain Path:          /languages
  * Requires at least:    6.7
- * Tested up to:         7.1
  * Requires PHP:         8.0
  * Requires Plugins:     easycommerce
  * License:              GPL-2.0-or-later
