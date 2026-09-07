@@ -95,7 +95,7 @@ class Backfill {
 	}
 
 	/**
-	 * Restart the import if it marked itself done without writing any rows.
+	 * Restart the import when the table is empty but the store has orders.
 	 *
 	 * @return void
 	 */

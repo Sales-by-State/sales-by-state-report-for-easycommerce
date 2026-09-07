@@ -19,7 +19,6 @@ msgid "Sales by State Report for EasyCommerce"
 msgstr ""
 
 #. Plugin URI of the plugin
-#. Author URI of the plugin
 msgid "https://salesbystate.com/"
 msgstr ""
 
@@ -29,4 +28,8 @@ msgstr ""
 
 #. Author of the plugin
 msgid "Rodolfo Melogli"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.businessbloomer.com/"
 msgstr ""
